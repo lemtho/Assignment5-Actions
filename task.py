@@ -8,4 +8,3 @@ def firstrun():
 def circle(radius):
     area = radius ** 2 * math.pi
     return round(area, 2)
-
